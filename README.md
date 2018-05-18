@@ -2,7 +2,7 @@
 
 Its an effort to summarize the concept of javascript and what can be achieved with javascript in current era.
 
-Slides are available [here]()
+Slides are available [here](https://slides.com/muhammadfaizan-3/deck/)
 
 ## Resources
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
